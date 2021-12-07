@@ -1,1 +1,88 @@
+body {
+  background-color: white;
+  color: #ffffff;
+}
+h1 {
+  color: red;
+  text-align: center;
+  font: italic 200% fantasy;
+  padding-top: 50px;
+  background-color: blue;
+}
+h2.eredivisie {
+  color: rgb(224, 19, 19);
+  text-align: left;
+  font: italic 200% fantasy;
+  margin-left: 100px;
+}
+p.prijs1 {
+  color: black;
+  font-size: 50px;
+  text-align: center;
+  margin-bottom: -10px;
+}
+p.prijs2 {
+  color: black;
+  font-size: 50px;
+  text-align: center;
+  margin-bottom: -10px;
+}
+p.prijs3 {
+  color: black;
+  font-size: 50px;
+  text-align: center;
+  margin-bottom: -10px;
+}
+p.prijs4 {
+  color: black;
+  font-size: 50px;
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: -10px;
+}
+p.beschrijving {
+  color: black;
+  font-size: 20px;
+  text-align: center;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+img.ajaxderdetenue {
+  width: 100%;
+}
+img.psv {
+  width: 100%;
+}
+img.utrecht {
+  width: 100%;
+}
+img.fortuna {
+  width: 100%;
+}
+div.ajaxderdetenue {
+  width: 300px;
+  border: 15px solid black;
+  height: 575px;
+}
+div.psv {
+  margin-left: 390px;
+  width: 300px;
+  border: 15px solid black;
+  margin-top: -605px;
+  height: 575px;
+}
+div.utrecht {
+  margin-left: 790px;
+  width: 300px;
+  border: 15px solid black;
+  margin-top: -605px;
+  height: 575px;
+}
+div.fortuna {
+  margin-left: 1190px;
+  width: 300px;
+  border: 15px solid black;
+  margin-top: -605px;
+  height: 575px;
+}
 
